@@ -1,0 +1,15 @@
+.cuadro {
+  width: 300px;
+  height: 400px;
+  border: 2px solid #000;
+  background: #ccc;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+}
+
+body {
+  background-color: royalblue;
+}
